@@ -26,11 +26,11 @@ Quando você digita algo no campo de pesquisa, o JavaScript entra em ação e pr
 
 **Qual o futuro da plataforma KidMais?**
 
-*Aprimorar a funcionalidade do site melhorando a experiencia do usuario tornando mais fluida e com novas funcionalidades.
-*Aumentar a base de histórias e brincadeiras.
-*Adicionar imagens, videos, audiobooks e atividades sobre os temas.
-*Adicionar uma aba de curiosidades cientificas.
-*Adicionar ideias de atividades entre pais e filhos.
+* Aprimorar a funcionalidade do site melhorando a experiencia do usuario tornando mais fluida e com novas funcionalidades.
+* Aumentar a base de histórias e brincadeiras.
+* Adicionar imagens, videos, audiobooks e atividades sobre os temas.
+* Adicionar uma aba de curiosidades cientificas.
+* Adicionar ideias de atividades entre pais e filhos.
 
 **Observações:**
 
