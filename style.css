@@ -12,7 +12,7 @@ header {
 }
 /* Estiliza o corpo da página */
 body {
-    background-image: url('Imagens/fundo.webp');
+    background-image: url('fundo.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
